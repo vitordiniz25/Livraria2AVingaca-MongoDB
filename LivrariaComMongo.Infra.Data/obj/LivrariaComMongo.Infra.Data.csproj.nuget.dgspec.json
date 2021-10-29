@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra.Data\\LivrariaComMongo.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\LivrariaComMongo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\LivrariaComMongo.Domain.csproj",
+        "projectName": "LivrariaComMongo.Domain",
+        "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\LivrariaComMongo.Domain.csproj",
+        "packagesPath": "C:\\Users\\vitor.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitor.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj": {
+                "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ElmahCore": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra.Data\\LivrariaComMongo.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra.Data\\LivrariaComMongo.Infra.Data.csproj",
+        "projectName": "LivrariaComMongo.Infra.Data",
+        "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra.Data\\LivrariaComMongo.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\vitor.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitor.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\LivrariaComMongo.Domain.csproj": {
+                "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Domain\\LivrariaComMongo.Domain.csproj"
+              },
+              "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj": {
+                "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ElmahCore": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj",
+        "projectName": "LivrariaComMongo.Infra",
+        "projectPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\LivrariaComMongo.Infra.csproj",
+        "packagesPath": "C:\\Users\\vitor.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.ribeiro\\source\\repos\\LivrariaComMongo\\LivrariaComMongo.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitor.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ElmahCore": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

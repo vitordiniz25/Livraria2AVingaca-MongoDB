@@ -1,0 +1,15 @@
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.csproj.AssemblyReference.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.AssemblyInfo.cs
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\LivrariaComMongo.Domain.deps.json
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\LivrariaComMongo.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\ref\LivrariaComMongo.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\LivrariaComMongo.Domain.pdb
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\LivrariaComMongo.Infra.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\bin\Debug\net5.0\LivrariaComMongo.Infra.pdb
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.csproj.CopyComplete
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\ref\LivrariaComMongo.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Domain\obj\Debug\net5.0\LivrariaComMongo.Domain.pdb

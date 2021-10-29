@@ -1,0 +1,17 @@
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.AssemblyInfo.cs
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Infra.Data.deps.json
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Infra.Data.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\ref\LivrariaComMongo.Infra.Data.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Infra.Data.pdb
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Domain.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Infra.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Domain.pdb
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\bin\Debug\net5.0\LivrariaComMongo.Infra.pdb
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.csproj.CopyComplete
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\ref\LivrariaComMongo.Infra.Data.dll
+C:\Users\vitor.ribeiro\source\repos\LivrariaComMongo\LivrariaComMongo.Infra.Data\obj\Debug\net5.0\LivrariaComMongo.Infra.Data.pdb
